@@ -8,3 +8,5 @@ export interface PaginationResult<T> {
     currentPage: number;
   };
 }
+
+// this is a pagination result interface
