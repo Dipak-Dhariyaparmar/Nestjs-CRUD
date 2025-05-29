@@ -262,3 +262,5 @@ export class AssignmentsService {
     };
   }
 }
+
+// this service is a assignments service
