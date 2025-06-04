@@ -9,4 +9,4 @@ export interface PaginationResult<T> {
   };
 }
 
-// this is a pagination result interface
+// this is a pagination result interface component
